@@ -1,0 +1,105 @@
+body{
+    background-color: rgb(255, 221, 0);
+}
+
+
+p{
+    font-size: 30px;
+    font-family: 'Gochi Hand';
+    position: absolute; top:-70px; left: 50px;
+    color: red;
+    text-shadow: 2px 2px  #000000;
+}
+
+#normaltext{
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    position: absolute; top:-50px; right: 650px;
+}
+#normaltext2{
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    position: absolute; top:-50px; right: 450px;
+
+}
+#normaltext3{
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    position: absolute; top:-50px; right: 250px;
+
+}
+a:visited{
+    color:black
+}
+a:link {
+    color: black; 
+}
+a:hover {
+    color: white;
+}
+
+#overlay{
+    background-color: white;
+    border-radius: 25px;
+    position: absolute; top: 60px; left: 115px;
+    height: 900px;
+    width: 1522px;
+
+
+}
+
+#burgerlogo{
+    position: absolute; top: -74px; left: -27px;
+
+
+}
+
+#house{
+    position: absolute; top: -10px; right: -355px;
+}
+
+#bodytext{
+    font-size: 133px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute; top:-88px; left: 33px;
+    color: black;
+
+}
+#bodytext2{
+    font-size: 200px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute; top:-66px; left: 33px;
+    color: black;
+
+}
+#subtext{
+    font-size: 77px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute; top:313px; left: 33px;
+    color: red;
+}
+
+#learn{
+    background-color: red;
+    border-radius: 25px;
+    position: absolute; top: 600px; left: 260px;
+    height: 50px;
+    width: 244px;
+}
+
+#learnmore{
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute; top:-3px; left: 60px;
+    color: black;
+
+}
+text{
+    font-size: 22px;
+    font-family:  'Gochi Hand';
+    position: absolute; top:520px; left: 60px;
+    color: black;
+}

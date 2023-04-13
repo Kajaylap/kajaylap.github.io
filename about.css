@@ -1,0 +1,85 @@
+body {
+    background-image: url("graphics/pattern.jpg");
+    background-repeat: repeat;
+    background-position:  absolute; left:300;
+}
+
+p{
+    font-size: 30px;
+    font-family: 'Gochi Hand';
+    position: absolute; top:-70px; left: 50px;
+    color: red;
+    text-shadow: 2px 2px  #000000;
+}
+#pic{
+    position: absolute; top: 380px; right: -53px;
+
+}
+#textbox{
+    background-color:white;
+    border-radius: 25px;
+    position: absolute; top: 60px; left: 115px;
+    height: 900px;
+    width: 1522px;
+    padding: 20px;
+    border-style: double;
+    border-width: 5px;
+    border-color: red;
+
+
+}
+text{
+    font-size: 26px;
+    color: black;;
+    line-height: 50px;
+
+}
+text2{
+    font-size: 33px;
+    font-family:  'Gochi Hand';
+    color: black;;
+    line-height: 50px;
+
+}
+
+#topbar{
+    background-color:rgb(255, 221, 0);
+    position: absolute; top: 0px; left: 0px;
+    height: 100px;
+    width: 1922px;
+}
+
+#normaltext{
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    position: absolute; top:-50px; right: 650px;
+}
+#normaltext2{
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    position: absolute; top:-50px; right: 450px;
+
+}
+#normaltext3{
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    position: absolute; top:-50px; right: 250px;
+
+}
+#burgerlogo{
+    position: absolute; top: -16px; left: 89px;
+
+
+}
+a:visited{
+    color:black
+}
+a:link {
+    color: black; 
+}
+a:hover {
+    color: white;
+}
